@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+ .top-header {
+  height: 70vh;
+  background-image: url('sample.jpg');
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-size: cover;
+}
