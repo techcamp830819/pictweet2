@@ -1,17 +1,17 @@
-#　概要
+概要
 
 MVCモデルを基本として各種機能を実装した
 投稿型アプリケーション
 
 URL：https://tweet2-28979.herokuapp.com/
 
-トップページ画面
+トップページ画面：
 https://gyazo.com/272ff82032dfae0d4efcca7c245eef3b
 
-新規登録画面
+新規登録画面：
 https://gyazo.com/27ed373d0abdd4ad710cc08fd4b5851a
 
-#　機能
+機能
 * ユーザー登録・ログイン機能
 * ユーザーマイページ
 * コメント機能
@@ -21,7 +21,7 @@ https://gyazo.com/27ed373d0abdd4ad710cc08fd4b5851a
 * 削除機能
 * 画像投稿機能
 
-#　開発環境
+開発環境
 * Ruby 
 * Rails 
 * MySQL
